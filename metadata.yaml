@@ -1,0 +1,40 @@
+_repo: The-Works-Of-Oliver-Wendell-HolmesAn-Index-of-the-Project-Gutenberg-Editions_28747
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28747-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holmes, Oliver Wendell
+    birthdate: 1809
+    deathdate: 1894
+    gutenberg_agent_id: '387'
+    url: http://www.gutenberg.org/2009/agents/387
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes,_Sr.
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: Contents.- v. 1. The autocrat of the breakfast-table.- v. 2. The professor
+  at the breakfast-table.- v. 3. The poet at the breakfast-table.- v. 4. Over the
+  teacups.- v. 5. Elsie Venner.- v. 6. The guardian angel.- v. 7. A moral antipathy.-
+  v. 8. Pages from an old volume of life. A collection of essays 1857-1881.- v. 9.
+  Medical essays 1842-1882.- v. 10. One hundred days in Europe.- v. 11. Ralph Waldo
+  Emerson, John Lothrop Motley.- v. 12-13. Poetical works.
+gutenberg_issued: '2009-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AC'
+- !lcsh 'Indexes'
+- !lcc 'PS'
+title: 'The Works Of Oliver Wendell Holmes
+
+  An Index of the Project Gutenberg Editions'
+url: http://www.gutenberg.org/ebooks/28747
